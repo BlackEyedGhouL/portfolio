@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BlackEyedGhouL/portfolio/static/css/main.fea818c5.css",
+    "main.js": "/BlackEyedGhouL/portfolio/static/js/main.5bf09560.js",
+    "index.html": "/BlackEyedGhouL/portfolio/index.html",
+    "main.fea818c5.css.map": "/BlackEyedGhouL/portfolio/static/css/main.fea818c5.css.map",
+    "main.5bf09560.js.map": "/BlackEyedGhouL/portfolio/static/js/main.5bf09560.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fea818c5.css",
+    "static/js/main.5bf09560.js"
+  ]
+}
