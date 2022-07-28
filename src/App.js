@@ -17,7 +17,7 @@ const App = () => {
     <div id="top" className={`${themeName} app`}>
       <Helmet>
         <meta charSet="utf-8" />
-        <title>My Title</title>
+        <title>Senith Umesha</title>
         <link
           rel="canonical"
           href="https://github.com/BlackEyedGhouL/portfolio"
