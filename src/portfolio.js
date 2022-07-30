@@ -9,7 +9,7 @@ const about = {
   description:
     "I am a hardworking, flexible and self-motivated individual with 7 months of experience in mobile development, using Flutter. I am an excellent team worker. And also I am able to work under pressure and adhere to strict deadlines.",
   resume:
-    "https://drive.google.com/file/d/17dDSKR4l8SoFjVmlxcnDAFCPtd3ViyXh/view?usp=sharing",
+    "https://drive.google.com/file/d/1f8KEp1Q3UHxwZm29amBp6xL_-NrAZnHM/view?usp=sharing",
   social: {
     linkedin: "https://www.linkedin.com/in/senith-umesha/",
     github: "https://github.com/BlackEyedGhouL",
