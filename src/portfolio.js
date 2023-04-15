@@ -7,16 +7,32 @@ const about = {
   name: "Senith Umesha",
   role: "Mobile Developer",
   description:
-    "I am a hardworking, flexible and self-motivated individual with 7 months of experience in mobile development, using Flutter. I am an excellent team worker. And also I am able to work under pressure and adhere to strict deadlines.",
-  resume:
-    "https://drive.google.com/file/d/1f8KEp1Q3UHxwZm29amBp6xL_-NrAZnHM/view?usp=sharing",
+    "I am a hardworking, flexible and self-motivated individual with more than 1 and half years of experience in mobile development, using Flutter and Java. I am an excellent team worker. And also I am able to work under pressure and adhere to strict deadlines.",
+  resume: "https://drive.google.com/file/d/1f8KEp1Q3UHxwZm29amBp6xL_-NrAZnHM/view?usp=sharing",
   social: {
     linkedin: "https://www.linkedin.com/in/senith-umesha/",
     github: "https://github.com/BlackEyedGhouL",
+    stack: "https://stackoverflow.com/users/15165638/senith-umesha",
   },
 };
 
 const projects = [
+  {
+    name: "HowToPay",
+    description:
+      "HowToPay helps you make online payments quickly and easily. It offers a truly global digital wallet solution for assisting clients in making instant and secure online payments.",
+    stack: ["Flutter", "MobX", "RestAPIs", "Firebase"],
+    sourceCode: "",
+    livePreview: "https://play.google.com/store/apps/details?id=com.howtopay.walletapp",
+  },
+  {
+    name: "Julee",
+    description:
+      "Julee empowers users to optimize their financial life with Julee intuitive wallet app. It's easy to use and delightful to have around.",
+    stack: ["Flutter", "MobX", "RestAPIs", "Firebase"],
+    sourceCode: "",
+    livePreview: "https://play.google.com/store/apps/details?id=com.wallet.julee",
+  },
   {
     name: "Ayu",
     description:
@@ -39,7 +55,8 @@ const projects = [
       "Make the life of firefighters easier by implementing features like details and locations of all stations, contact information of all fellow firefighters, instant alerts, information about upcoming events, currently available positions.",
     stack: ["Java", "SQLite", "Firebase"],
     sourceCode: "https://github.com/BlackEyedGhouL/fire-rescue",
-    livePreview: "",
+    livePreview:
+      "https://user-images.githubusercontent.com/90299964/150658768-5433f167-a8c5-4009-99d4-6bee6db7a275.png",
   },
   {
     name: "Covid Zero",
@@ -47,7 +64,8 @@ const projects = [
       "Provides features like the latest information about the current situation of COVID-19 virus by using APIs and visualizing data using charts, locations where users can get vaccinated, an online vaccine registration service, a self-isolation countdown timer and the latest news about the virus.",
     stack: ["Java", "SQLite", "Firebase"],
     sourceCode: "https://github.com/BlackEyedGhouL/covid-zero",
-    livePreview: "",
+    livePreview:
+      "https://user-images.githubusercontent.com/90299964/232234193-f6762f42-9b66-4bfd-ba72-5420cc10d967.png",
   },
   {
     name: "CoChat",
@@ -55,7 +73,7 @@ const projects = [
       "Chat application developed for messaging between small groups of friends. Allows direct messaging, phone authentication, multiple chat backgrounds and inviting friends.",
     stack: ["Kotlin", "Firebase"],
     sourceCode: "https://github.com/BlackEyedGhouL/co-chat",
-    livePreview: "",
+    livePreview: "https://raw.githubusercontent.com/BlackEyedGhouL/co-chat/main/assets/screenshots.png",
   },
   {
     name: "ATM System",
@@ -96,11 +114,17 @@ const skills = [
   "Flutter",
   "Dart",
   "Kotlin",
+  "RestAPIs",
+  "React Native",
+  "Tailwind",
+  "PHP",
+  "Laravel",
   "Git",
   "Firebase",
   "MSSQL",
   "MySQL",
   "SQLite",
+  "Oracle",
   "C",
   "C++",
   "C#",
@@ -109,6 +133,7 @@ const skills = [
   "Flask",
   "HTML",
   "CSS",
+  "Bootstrap",
   "JavaScript",
   "React",
   "Spring",
@@ -117,6 +142,13 @@ const skills = [
   "Photoshop",
   "Arduino",
   "Linux",
+  "Android Studio",
+  "Visual Studio",
+  "Visual Studio Code",
+  "Intellij",
+  "Netbeans",
+  "Trello",
+  "Slack",
 ];
 
 const contact = {

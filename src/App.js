@@ -18,10 +18,7 @@ const App = () => {
       <Helmet>
         <meta charSet="utf-8" />
         <title>Senith Umesha</title>
-        <link
-          rel="canonical"
-          href="https://github.com/BlackEyedGhouL/portfolio"
-        />
+        <link rel="canonical" href="https://github.com/BlackEyedGhouL/portfolio" />
         <meta name="description" content="Portfolio website" />
       </Helmet>
       <Header />
