@@ -8,7 +8,7 @@ const about = {
   role: "Mobile Developer",
   description:
     "I am a hardworking, flexible and self-motivated individual with more than 1 and half years of experience in mobile development, using Flutter and Java. I am an excellent team worker. And also I am able to work under pressure and adhere to strict deadlines.",
-  resume: "",
+  resume: "https://drive.google.com/file/d/1oX3yuihwGhIa_kxk6MDnGzQDA3T21p54/view?usp=sharing",
   social: {
     linkedin: "https://www.linkedin.com/in/senith-umesha/",
     github: "https://github.com/BlackEyedGhouL",
@@ -32,6 +32,14 @@ const projects = [
     stack: ["Flutter", "MobX", "RestAPIs", "Firebase"],
     sourceCode: "",
     livePreview: "https://play.google.com/store/apps/details?id=com.wallet.julee",
+  },
+  {
+    name: "SchedulerDesk",
+    description:
+      "SchedulerDesk is essential for small salon businesses, as it streamlines appointments, enhances customer convenience, improves efficiency, and boosts overall business growth.",
+    stack: ["Flutter", "MobX", "RestAPIs", "Firebase", "MobX"],
+    sourceCode: "",
+    livePreview: "https://staging.schedulerdesk.com/scheduler-desk-mobile-app/",
   },
   {
     name: "Ayu",
